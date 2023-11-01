@@ -15,9 +15,9 @@ The project consists of an HTML form with input fields for Roll-No, Full-Name, C
 
 
 ## Illustration
-* <img src="./screenshots/index.png">
-* <img src="./screenshots/update.png">
-* <img src="./screenshots/save.png">
+* <img src="./screenshots/Index.png">
+* <img src="./screenshots/Update.png">
+* <img src="./screenshots/Save.png">
     
 ## Scope of functionalities
 * Create a new student enrollment record in the database

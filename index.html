@@ -346,9 +346,9 @@ function changeData() {
     jQuery.ajaxSetup({async: true});
     
     if (resJsonObj.status === 400) {
-        alertHandler(0, 'Data Not Update ( Message: ' + resJsonObj.message + " )");
+        alertHandler(0, 'Unable to Update Data ( Message: ' + resJsonObj.message + " )");
     } else if (resJsonObj.status === 200) {
-        alertHandler(1, 'Data Update Successfully');
+        alertHandler(1, 'Data Updated Successfully');
     }
     
     resetForm();

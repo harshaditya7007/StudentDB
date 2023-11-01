@@ -15,9 +15,12 @@ The project consists of an HTML form with input fields for Roll-No, Full-Name, C
 
 
 ## Illustration
-* <img src="./screenshots/Index.png">
+<img src="./screenshots/Index.png">
+ When loaded up, we'll be presented with the form itself. Every field other than the Roll Number(Primary Key) is disabled. Once the Roll Number is filled, depending on the roll no.'s presence in the database, we are provided with the option to either update the entry or add a new one.
 * <img src="./screenshots/Update.png">
-* <img src="./screenshots/Save.png">
+ OR
+<img src="./screenshots/Save.png">
+ We can use the reset button to clear all the fields.
     
 ## Scope of functionalities
 * Create a new student enrollment record in the database
@@ -26,7 +29,7 @@ The project consists of an HTML form with input fields for Roll-No, Full-Name, C
 * Validate the input data and show error messages if any
 * Display the data in the form based on the Roll-No entered by the user
 
-##Setup Instructions
+## Setup Instructions
 * Clone or download the HTML file.
 * Ensure JsonPowerDB is set up and configured for storing and managing the data entered via this form.
 * Open the HTML file in a web browser to access the Student Enrollment Form.

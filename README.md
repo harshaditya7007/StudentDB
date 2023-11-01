@@ -1,4 +1,4 @@
-# StudentDB #
+# Student Enrollment Form #
 ## Description
 Student Enrollment Form using jsonPowerDB v2.0
 The project consists of an HTML form with input fields for Roll-No, Full-Name, Class, Birth-Date, Address and Enrollment-Date. The form also has three control buttons: Save, Update and Reset. The form uses JavaScript and jQuery to validate the input data and perform CRUD operations using JPDB API. The project demonstrates how to use JsonPowerDB for storing and retrieving data in a JSON format.
